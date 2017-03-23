@@ -18,8 +18,7 @@
             android:background="#b8f5be"
             android:textSize="50dp"
             android:layout_weight="1"
-            android:textAllCaps="true"
-            android:text="dsds" />
+            android:textAllCaps="true" />
         <Button
             android:text="Очистить"
             android:layout_width="match_parent"
