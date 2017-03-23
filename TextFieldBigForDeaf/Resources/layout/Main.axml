@@ -16,8 +16,10 @@
             android:layout_height="109.0dp"
             android:id="@+id/editText"
             android:background="#b8f5be"
-            android:textSize="60dp"
-            android:layout_weight="1" />
+            android:textSize="50dp"
+            android:layout_weight="1"
+            android:textAllCaps="true"
+            android:text="dsds" />
         <Button
             android:text="Очистить"
             android:layout_width="match_parent"
