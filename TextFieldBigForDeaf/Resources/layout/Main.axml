@@ -17,8 +17,7 @@
             android:id="@+id/editText"
             android:background="#b8f5be"
             android:textSize="50dp"
-            android:layout_weight="1"
-            android:textAllCaps="true" />
+            android:layout_weight="1" />
         <Button
             android:text="Очистить"
             android:layout_width="match_parent"
