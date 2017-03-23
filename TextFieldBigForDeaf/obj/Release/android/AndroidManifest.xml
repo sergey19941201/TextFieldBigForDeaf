@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="TextFieldBigForDeaf.TextFieldBigForDeaf" android:versionCode="1" android:versionName="1.0" android:installLocation="auto">
+  <!--suppress UsesMinSdkAttributes-->
+  <uses-sdk android:minSdkVersion="14" />
+  <application android:label="Большой текст" android:icon="@drawable/icon" android:name="android.app.Application" android:allowBackup="true">
+    <activity android:icon="@drawable/icon" android:screenOrientation="landscape" android:theme="@android:style/Theme.NoTitleBar" android:name="md5fac6490f3331619ea2bb7c4a180439cf.MainActivity">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="TextFieldBigForDeaf.TextFieldBigForDeaf.mono.MonoRuntimeProvider.__mono_init__" />
+  </application>
+</manifest>

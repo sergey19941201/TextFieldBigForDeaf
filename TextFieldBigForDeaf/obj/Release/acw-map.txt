@@ -1,0 +1,4 @@
+TextFieldBigForDeaf.MainActivity, TextFieldBigForDeaf;md5fac6490f3331619ea2bb7c4a180439cf.MainActivity
+TextFieldBigForDeaf.MainActivity, TextFieldBigForDeaf, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5fac6490f3331619ea2bb7c4a180439cf.MainActivity
+TextFieldBigForDeaf.MainActivity;md5fac6490f3331619ea2bb7c4a180439cf.MainActivity
+textfieldbigfordeaf.MainActivity;md5fac6490f3331619ea2bb7c4a180439cf.MainActivity
